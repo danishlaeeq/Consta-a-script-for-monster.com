@@ -1,0 +1,24 @@
+body{
+    background: #f9f9f9;
+}
+.container{
+    width: 15rem;
+}
+.container h1{
+    color: #7046ae;
+}
+.container h1 span{
+    color: #06b8b6;
+}
+a{
+    color: #06b8b6;
+    text-decoration: none;
+}
+.container.center{
+    margin:auto
+}
+#consta_e{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
