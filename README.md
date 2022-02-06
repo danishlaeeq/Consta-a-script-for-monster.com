@@ -6,5 +6,6 @@ This Extension is useful for employers while they download Candidate's Resume fr
 This Extension Detects the Missing Contact Information and download the regenerated resume in **.doc** file format
 <br>
 <br>
-We are available to projects
+**We are Available for Projects**
+<br>
 www.technodigitz.com
